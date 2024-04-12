@@ -37,7 +37,7 @@ usuário deve informar a altura em metros.](list01/atv11.por)
 12. [Peça ao usuário para inserir a distância de uma viagem em quilômetros e a velocidade
 média. Calcule o tempo estimado da viagem e exiba-o.](list01/atv12.por)
 
-### Lista 1 - Desvio Condicional (Estrutura de Decisão)
+### Lista 2 - Desvio Condicional (Estrutura de Decisão)
 
 1. [Escreva uma função para receber 2 valores (considere que não serão informados valores
 iguais) e escrever o maior deles.](list02/atv01.por)
@@ -79,7 +79,7 @@ Equilátero, Isósceles ou Escaleno. Sendo que:](list02/atv09.por)
 - Triângulo Escaleno: possui 3 lados diferentes.
 
 10. [Escreva uma função que leia o valor de 3 ângulos de um triângulo e escreva se o triângulo é
-Acutângulo, Retângulo ou Obtusângulo. Sendo que:](lista02/atv10.por)
+Acutângulo, Retângulo ou Obtusângulo. Sendo que:](list02/atv10.por)
 - Triângulo Retângulo: possui um ângulo reto. (igual a 90º)
 - Triângulo Obtusângulo: possui um ângulo obtuso. (maior que90º)
 - Triângulo Acutângulo: possui três ângulos agudos. (menor que 90º)
